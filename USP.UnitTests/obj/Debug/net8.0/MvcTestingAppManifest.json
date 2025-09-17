@@ -1,0 +1,8 @@
+{
+  "USP.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\SII\\USP\\zavrsni projekat\\usp-2024-main\\usp-2024-main\\USP.API",
+  "USP.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\SII\\USP\\zavrsni projekat\\usp-2024-main\\usp-2024-main\\USP.Application",
+  "USP.BaseTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\SII\\USP\\zavrsni projekat\\usp-2024-main\\usp-2024-main\\USP.BaseTests",
+  "USP.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\SII\\USP\\zavrsni projekat\\usp-2024-main\\usp-2024-main\\USP.Domain",
+  "USP.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\SII\\USP\\zavrsni projekat\\usp-2024-main\\usp-2024-main\\USP.Infrastructure",
+  "USP.Worker, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\SII\\USP\\zavrsni projekat\\usp-2024-main\\usp-2024-main\\USP.Worker"
+}
