@@ -16,7 +16,7 @@ public class CustomWebApplicationFactory<TStartup> : WebApplicationFactory<TStar
             {
                 await DB.InitAsync("UspBazaZaTestiranje",
                     MongoClientSettings.FromConnectionString(
-                        "mongodb+srv://pbisevac:petar-test@cluster-usp.265fr.mongodb.net/"));
+                        "mongodb+srv://002lazar:99VDOP9tSubxkSwE@cluster0.0sfxygw.mongodb.net/"));
             })
             .GetAwaiter()
             .GetResult();
