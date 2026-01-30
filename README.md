@@ -58,7 +58,7 @@ dotnet test
 -Every push and pull request is validated automatically.
 -The badge at the top of this README reflects the current build status.
 
-👤 Author
+👤 Author:
 
 Lazar Milovanovic
 Junior Software Engineer / Software & Information Engineering student
@@ -66,3 +66,6 @@ Actively seeking junior software engineering roles
 
 GitHub: https://github.com/007lazar
 LinkedIn: https://www.linkedin.com/in/lazar-milonvanovic-14b487187
+
+📄 License:
+MIT (or specify another license if preferred)
