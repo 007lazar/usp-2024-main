@@ -1,5 +1,5 @@
 USP 2024 – Backend Architecture (.NET)
-https://github.com/007lazar/usp-2024-main\.github\workflows
+[![CI](https://github.com/007lazar/usp-2024-main/actions/workflows/be-build-and-test.yml/badge.svg)](https://github.com/007lazar/usp-2024-main/actions/workflows/be-build-and-test.yml)
 
 A clean, modular .NET backend solution demonstrating real-world architecture practices such as separation of concerns, background workers, automated CI, and testable application design.
 This repository serves as a backend foundation for a full-stack application and as a portfolio project for software engineering roles.
