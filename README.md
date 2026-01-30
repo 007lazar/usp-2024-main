@@ -24,3 +24,45 @@ USP.sln
 │
 └── .github/workflows    # CI pipelines (GitHub Actions)
 
+Key design principles:
+-Separation of concerns
+-Dependency inversion
+-Testability
+-Scalability
+-Maintainability
+
+⚙️ Tech stack
+-C# / .NET
+-ASP.NET Core
+-GitHub Actions (CI)
+-xUnit / unit testing
+-Background workers
+
+Setup:
+dotnet restore
+dotnet build
+dotnet test
+
+-Run API
+dotnet run --project USP.API
+-Run Worker
+dotnet run --project USP.Worker
+-Testing
+dotnet test
+
+🔄 Continuous Integration (CI):
+-This repository uses GitHub Actions to automatically:
+-Restore dependencies
+-Build the solution
+-Run all tests
+-Every push and pull request is validated automatically.
+-The badge at the top of this README reflects the current build status.
+
+👤 Author
+
+Lazar Milovanovic
+Junior Software Engineer / Software & Information Engineering student
+Actively seeking junior software engineering roles
+
+GitHub: https://github.com/007lazar
+LinkedIn: https://www.linkedin.com/in/lazar-milonvanovic-14b487187
